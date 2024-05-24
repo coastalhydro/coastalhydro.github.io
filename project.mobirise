@@ -305,7 +305,7 @@
     "screenshot": "screenshot.png",
     "mbrsiteDomain": "opjnrsunw1",
     "usedWebp": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "cgw.html": {
