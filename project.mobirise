@@ -19,7 +19,7 @@
     "resourcesUrl": "https://r.mobirisesite.com/457720/",
     "path": "@PROJECT_PATH@",
     "name": "coastal hydro @ucsc",
-    "currentPage": "outreach.html",
+    "currentPage": "cgw.html",
     "ai": {
       "imageSearchQuery": "coastal hydrology"
     },
