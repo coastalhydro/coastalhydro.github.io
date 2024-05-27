@@ -19,7 +19,7 @@
     "resourcesUrl": "https://r.mobirisesite.com/457720/",
     "path": "@PROJECT_PATH@",
     "name": "coastal hydro @ucsc",
-    "currentPage": "index.html",
+    "currentPage": "html.html",
     "ai": {
       "imageSearchQuery": "coastal hydrology"
     },
@@ -5587,7 +5587,7 @@
         }
       ]
     },
-    "index.html": {
+    "html.html": {
       "settings": {
         "main": true,
         "title": "Coastal Hydrology and Resilience Research, UCSC",
