@@ -295,7 +295,7 @@
     ],
     "uniqCompNum": 37,
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/e56308f6dcdc63308902f0baf9f94810-128x137.png",
+    "favicon": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -303,7 +303,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "mbrsiteDomain": "opjnrsunw1",
+    "mbrsiteDomain": "or9qfdfldy",
     "usedWebp": false,
     "publishChangesOnly": false
   },
