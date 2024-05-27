@@ -19,7 +19,7 @@
     "resourcesUrl": "https://r.mobirisesite.com/457720/",
     "path": "@PROJECT_PATH@",
     "name": "coastal hydro @ucsc",
-    "currentPage": "html.html",
+    "currentPage": "index.html",
     "ai": {
       "imageSearchQuery": "coastal hydrology"
     },
@@ -293,7 +293,7 @@
         "url": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
       }
     ],
-    "uniqCompNum": 47,
+    "uniqCompNum": 67,
     "imageResize": true,
     "favicon": false,
     "robotsSwitcher": false,
@@ -311,7 +311,7 @@
     "cgw.html": {
       "settings": {
         "title": "Research: Coastal Groundwater",
-        "order": "4"
+        "order": "6"
       },
       "components": [
         {
@@ -1233,7 +1233,7 @@
     "rivers.html": {
       "settings": {
         "title": "Research: Rivers",
-        "order": "5"
+        "order": "7"
       },
       "components": [
         {
@@ -2155,7 +2155,7 @@
     "delta.html": {
       "settings": {
         "title": "Research: Estuaries and Deltas",
-        "order": "3",
+        "order": "5",
         "meta_descr": ""
       },
       "components": [
@@ -3078,7 +3078,7 @@
     "outreach.html": {
       "settings": {
         "title": "Outreach",
-        "order": "2",
+        "order": "4",
         "meta_descr": ""
       },
       "components": [
@@ -4146,7 +4146,7 @@
         "html_before": "",
         "socialSharingUrl": "",
         "meta_image": "@PROJECT_PATH@/assets/images/img-8613-1152x864.jpg",
-        "order": "1"
+        "order": "2"
       },
       "components": [
         {
@@ -5587,7 +5587,7 @@
         }
       ]
     },
-    "html.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Coastal Hydrology and Resilience Research, UCSC",
